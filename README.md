@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dissper
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me dissper2424@gmail.com
 
